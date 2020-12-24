@@ -7,3 +7,9 @@
 *.iml
 out
 gen
+/target/
+/one_security/mvnw.cmd
+/log/
+/src/
+/two_security_jwt/mvnw
+/spy.log
